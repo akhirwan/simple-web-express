@@ -1,0 +1,20 @@
+{
+  "name": "simple-web-app",
+  "version": "1.0.0",
+  "description": "first init",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "akhirwan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
